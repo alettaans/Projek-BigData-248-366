@@ -3,15 +3,16 @@
 
 # Table of Content
 1. [Introduction](#introduction)
-2. [Problem](#Problem)
-3. [Problem Solving Plan](#Problem_Solving_Plan)
-4. [Analysis Techniques](#Analysis_Techniques)
-5. [Workflow](#Workflow)
-6. [Dataset](#Dataset)
-7. [Dependencies](#Dependencies)
-8. [Get Started](#Get_Started)
-9. [License](#License)
-10. [Team](#Team)
+2. [Problem](#problem)
+3. [Problem Solving Plan](#problem-solving-plan)
+4. [Analysis Techniques](#analysis-techniques)
+5. [Workflow](#workflow)
+6. [Dataset](#dataset)
+7. [Dependencies](#dependencies)
+8. [Get Started](#get-started)
+9. [License](#license)
+10. [Team](#team)
+
 
 ## Introduction
 Proyek ini bertujuan untuk menganalisis data pemesanan hotel guna memahami pola dan faktor yang mempengaruhi pembatalan pemesanan. Dengan menggunakan berbagai teknik analisis data, termasuk Exploratory Data Analysis (EDA), pembersihan data (preprocessing), dan pembelajaran mesin (machine learning), proyek ini bertujuan memberikan wawasan yang berguna bagi pengelola hotel dalam membuat keputusan yang lebih baik. Proyek ini dikerjakan dan diselesaikan dengan dua orang dalam satu tim oleh mahasiswa Universitas Muhammadiyah Malang untuk memenuhi tugas mata kuliah Analisis Big Data. Berikut data anggota:
