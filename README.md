@@ -58,6 +58,11 @@ Dataset yang digunakan diambil dari website [github](https://github.com/rfordata
 
 ## Dependencies
 Berikut daftar dependensi yang dibutuhkan agar code yang tertera dapar dijalankan dengan baik
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.0
+seaborn==0.13.2
+scikit-learn==1.6.0
 
 ## Get Started
 Untuk memulai proyek ini, pastikan Anda telah menginstal semua package yang dibutuhkan. Anda dapat melakukannya dengan mengikuti langkah-langkah berikut:
@@ -81,4 +86,4 @@ Repository ini dibuat dengan akses penuh.
 
 ## Team
 - [Septiannisa Alya Shinta Purwandhani](https://github.com/Septiannisa13)
-- Aletta Agigia Novta Sajiatmoko
+- [Aletta Agigia Novta Sajiatmoko](https://github.com/alettaans)
