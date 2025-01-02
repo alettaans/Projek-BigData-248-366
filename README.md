@@ -34,6 +34,8 @@ Data yang tersedia meliputi informasi mengenai jenis hotel, status pembatalan, l
 - Model Evaluation: Menilai performa model menggunakan metrik evaluasi seperti akurasi, precision, recall, dan F1-score untuk mengukur sejauh mana model dapat memprediksi pembatalan secara akurat.
 
 ## Analysis Techniques
+![image](https://github.com/user-attachments/assets/699d6508-979e-4f15-bdce-edf579a1269d)
+
 Pada tahap awal, dilakukan eksplorasi data (EDA) untuk memahami distribusi dan pola yang ada dalam dataset. Berbagai visualisasi, seperti grafik distribusi, histogram, dan heatmap, digunakan untuk mengidentifikasi variabel-variabel yang memiliki pengaruh signifikan terhadap pembatalan reservasi dan preferensi pelanggan. Selain itu, EDA juga berfungsi untuk mendeteksi keberadaan nilai yang hilang atau outlier dalam data, yang harus diperbaiki agar model yang dihasilkan memiliki akurasi yang lebih baik.
 
 Pendekatan analisis berfokus pada pemodelan klasifikasi untuk memprediksi kemungkinan pembatalan pemesanan. Salah satu algoritma yang digunakan adalah Random Forest, yang membantu dalam mengidentifikasi variabel-variabel paling berpengaruh terhadap pembatalan serta memprediksi peluang pembatalan di masa mendatang. Random Forest memiliki keunggulan dalam mengatasi masalah overfitting, terutama pada dataset dengan banyak fitur, dan dapat memberikan wawasan yang lebih mendalam melalui analisis feature importance yang dihasilkan oleh model.
@@ -62,7 +64,7 @@ Untuk memulai proyek ini, pastikan Anda telah menginstal semua package yang dibu
 
 1. **Clone repository** ini ke mesin lokal Anda:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/alettaans/Projek-BigData-248-366.git
    ```
 
 2. **Instal dependencies** menggunakan `pip`:
