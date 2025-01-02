@@ -78,5 +78,5 @@ Untuk memulai proyek ini, pastikan Anda telah menginstal semua package yang dibu
 Repository ini dibuat dengan akses penuh.
 
 ## Team
-- Septiannisa Alya Shinta
+- [Septiannisa Alya Shinta Purwandhani](https://github.com/Septiannisa13)
 - Aletta Agigia Novta Sajiatmoko
