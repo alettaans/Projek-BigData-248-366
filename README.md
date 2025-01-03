@@ -57,12 +57,12 @@ Terakhir, Evaluation dilakukan untuk menilai kinerja model menggunakan [evaluati
 Dataset yang digunakan diambil dari website [github](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-02-11/readme.md), yang dimana dataset tersebut diambil dari penelitian yg dilakukan oleh [Antonio, Almeida, dan Nunes, 2019](https://www.sciencedirect.com/science/article/pii/S2352340918315191#f0010). Dataset ini berisi informasi mengenai permintaan pemesanan hotel yang didalamnya terdapat banyak variabel seperti negara, jumlah booking yang pernah di cancel sebelumnya, tamu yang memesan secara berulang atau tidak, jumlah orang dewasa, jumlah reservasi berdasarkan bulan kedatangan, status reservasi dan masih banyak variabel lainnya lagi yang tentunya dengan class/tipe data yang berbeda. Tipe data/claass yang tersedia pada dataset ini adalah integer, float, dan object. Dataset dapat di download [disini](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-02-11/hotels.csv)
 
 ## Dependencies
-Berikut daftar dependensi yang dibutuhkan agar code yang tertera dapar dijalankan dengan baik
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.8.0
-seaborn==0.13.2
-scikit-learn==1.6.0
+Berikut daftar dependensi yang dibutuhkan agar code yang tertera dapar dijalankan dengan baik  
+pandas==2.2.2  
+numpy==1.26.4  
+matplotlib==3.8.0  
+seaborn==0.13.2  
+scikit-learn==1.6.0  
 
 ## Get Started
 Untuk memulai proyek ini, pastikan Anda telah menginstal semua package yang dibutuhkan. Anda dapat melakukannya dengan mengikuti langkah-langkah berikut:
